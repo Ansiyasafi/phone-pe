@@ -39,3 +39,11 @@ Process the clone data by using Python algorithms and transform the processed da
 * Load data
 Finally, create a connection to the MySQL server and create a Database and stored the Transformed data in the MySQL server
 
+
+## E D A Process and Frame work
+* Access MySQL DB
+Create a connection to the MySQL server and access the specified MySQL DataBase by using pymysql library
+* Filter the data
+Filter and process the collected data depending on the given requirements by using SQL queries
+* Visualization
+Finally, create a Dashboard by using Streamlit and applying selection and dropdown options on the Dashboard and show the output are Geo visualization, bar chart, and Dataframe Table
