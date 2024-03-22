@@ -22,8 +22,13 @@ we can explore the data and get many valuable insights from the data exploration
 * MySQL
 * Git
 ## Import Libraries
-import pandas as pd
-import numpy as np
-import os
-import json
-import mysql.connector
+*import pandas as pd
+*import numpy as np
+*import os
+*import json
+*import mysql.connector
+*import plotly.express as px
+*import requests
+*import json
+*import sqlite3
+
