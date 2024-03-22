@@ -15,3 +15,15 @@ We create a web app to analyse the Phonepe transaction and users depending on va
     * map user
 
 we can explore the data and get many valuable insights from the data exploration.      
+##Tools install
+* virtual code.
+* Jupyter notebook.
+* Python 3.11.0 or higher.
+* MySQL
+* Git
+## Import Libraries
+import pandas as pd
+import numpy as np
+import os
+import json
+import mysql.connector
