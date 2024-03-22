@@ -31,4 +31,11 @@ we can explore the data and get many valuable insights from the data exploration
 * import requests
 * import json
 * import sqlite3
+## E T L Process
+* Extract data
+Initially, we Clone the data from the Phonepe GitHub repository by using Python libraries[(https://github.com/PhonePe/pulse.git)]
+* Process and Transform the data
+Process the clone data by using Python algorithms and transform the processed data into DataFrame formate.
+* Load data
+Finally, create a connection to the MySQL server and create a Database and stored the Transformed data in the MySQL server
 
